@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tarjetadecredito-c23ad": {
+      "hosting": {
+        "tarjetaCredito": [
+          "tarjetadecredito-c23ad"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tarjetadecredito-c23ad"
+  }
+}
